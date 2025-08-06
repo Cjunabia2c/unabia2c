@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package java.util;
 
 /**
  *
- * @author Jade
+ * @author Dell
  */
-public class Activity2 {
+public class scann {
     
 }
